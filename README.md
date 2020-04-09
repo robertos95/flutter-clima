@@ -1,6 +1,6 @@
 # Clima ☁
 
-9th app using Flutter. A weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). B
+10th app using Flutter. A weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). B
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
